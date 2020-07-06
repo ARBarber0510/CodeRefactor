@@ -42,10 +42,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -55,14 +51,8 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
+p {
+    font-size: 16px;
 }
 
 article {
@@ -80,13 +70,23 @@ article section {
     background-color: #0072bb;
 }
 
+article section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 article section img {
     max-height: 200px;
 }
 
-article section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 aside {
