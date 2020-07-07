@@ -1,7 +1,7 @@
 # HW1 - Horiseon Social Solution Services, Inc.
 
 This is the the company website for the digital marketing agency, Horiseon.
-Its purpose is to inform the visitor of the companys' services and how they may positively impact potential clients.
+Its purpose is to inform the visitor of the company's services and how they may positively impact potential clients.
 To improve the website's accessibility and SEO, the HTML and CSS codes were refactored, as explained below.
 
 
